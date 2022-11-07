@@ -27,6 +27,7 @@ body{
 }
 
 img{
+    border: 4px solid white;
     border-radius: 50%;
 }
 
@@ -40,6 +41,10 @@ img{
 
 .name, .stats{
     font-size: 18px;
+}
+
+.stats{
+    margin-bottom: -10px;
 }
 
 .blur{
